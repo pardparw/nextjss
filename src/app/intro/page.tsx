@@ -12,11 +12,7 @@ export default function Home() {
             />
             <div className={styles.box}>
                 
-                <h1 className={styles.text}>คุณมีปัญหาในการใช้จ่ายใช่ใหม?</h1>
-                <h2>Yes?</h2>
-                <h3>
-                    wel
-                </h3>
+             <h1>Hello wolrd</h1>
                 
             </div>
         </body>
