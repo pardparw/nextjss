@@ -8,8 +8,9 @@ export default function Home() {
         mynane
       </h1>
       <h2>
-      Hi My name is GUB GURUs
+      Hello world
       </h2>
+      <h3>Hello</h3>
        
     </main>
   )

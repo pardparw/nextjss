@@ -14,6 +14,9 @@ export default function Home() {
                 
                 <h1 className={styles.text}>คุณมีปัญหาในการใช้จ่ายใช่ใหม?</h1>
                 <h2>Yes?</h2>
+                <h3>
+                    wel
+                </h3>
             </div>
         </body>
     )
