@@ -7,6 +7,9 @@ export default function Home() {
         Hello wolrd rlddddddddd
         mynane
       </h1>
+      <h2>
+      Hi My name is GUB GURU
+      </h2>
        
     </main>
   )
